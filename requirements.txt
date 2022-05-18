@@ -1,0 +1,16 @@
+pandas
+numpy
+
+sklearn.model_selection
+sklearn.impute 
+sklearn.preprocessing
+sklearn.compose
+sklearn.metrics
+sklearn.pipeline
+sklearn.ensemble
+
+seaborn as sns
+matplotlib.pyplot 
+plotly.express 
+plotly.graph_objects 
+plotly.io 
